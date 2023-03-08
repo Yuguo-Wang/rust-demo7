@@ -1,0 +1,11 @@
+/Users/wangyuguo/ids721/rust 6/target/debug/deps/httparse-6e089b66c37d3505.rmeta: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/iter.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/macros.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/mod.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wangyuguo/ids721/rust 6/target/debug/deps/libhttparse-6e089b66c37d3505.rlib: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/iter.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/macros.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/mod.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wangyuguo/ids721/rust 6/target/debug/deps/httparse-6e089b66c37d3505.d: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/iter.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/macros.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/mod.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/lib.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/iter.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/macros.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/mod.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.8.0/src/simd/fallback.rs:
